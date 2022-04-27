@@ -4,7 +4,12 @@
     box-sizing: border-box;
 }
 
-html,
-body {
+.center,
+.image {
     text-align: center;
+}
+
+.list-item {
+    list-style: none;
+    text-decoration: none;
 }
