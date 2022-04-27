@@ -10,6 +10,7 @@
 }
 
 .list-item {
+    line-height: 1.5;
     list-style: none;
     text-decoration: none;
 }
